@@ -1,0 +1,13 @@
+C:\introprog\introprogra2020\clase2\bin\Debug\netcoreapp3.1\clase2.exe
+C:\introprog\introprogra2020\clase2\bin\Debug\netcoreapp3.1\clase2.deps.json
+C:\introprog\introprogra2020\clase2\bin\Debug\netcoreapp3.1\clase2.runtimeconfig.json
+C:\introprog\introprogra2020\clase2\bin\Debug\netcoreapp3.1\clase2.runtimeconfig.dev.json
+C:\introprog\introprogra2020\clase2\bin\Debug\netcoreapp3.1\clase2.dll
+C:\introprog\introprogra2020\clase2\bin\Debug\netcoreapp3.1\clase2.pdb
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.csprojAssemblyReference.cache
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.csproj.CoreCompileInputs.cache
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.AssemblyInfoInputs.cache
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.AssemblyInfo.cs
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.dll
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.pdb
+C:\introprog\introprogra2020\clase2\obj\Debug\netcoreapp3.1\clase2.genruntimeconfig.cache
